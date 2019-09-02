@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FaceSDK-Collect-WithLiveness-Android.iml" filepath="$PROJECT_DIR$/FaceSDK-Collect-WithLiveness-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/faceplatform/faceplatform.iml" filepath="$PROJECT_DIR$/faceplatform/faceplatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/faceplatform/faceplatform.iml" filepath="$PROJECT_DIR$/faceplatform/faceplatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/faceplatform-ui/faceplatform-ui.iml" filepath="$PROJECT_DIR$/faceplatform-ui/faceplatform-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/faceplatform-ui/faceplatform-ui.iml" filepath="$PROJECT_DIR$/faceplatform-ui/faceplatform-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facesdk_mobile_android.iml" filepath="$PROJECT_DIR$/facesdk_mobile_android.iml" />
+    </modules>
+  </component>
+</project>
